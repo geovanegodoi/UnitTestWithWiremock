@@ -1,0 +1,13 @@
+global using Xunit;
+global using FluentAssertions;
+global using WireMock.RequestBuilders;
+global using WireMock.ResponseBuilders;
+global using WireMock.Server;
+global using WireMock.Settings;
+global using WireMock.Types;
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Net;
+global using System.Text;
+global using System.Threading.Tasks;
